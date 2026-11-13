@@ -1,0 +1,1 @@
+Sample file for the Linux Basics assignment.\nThe wget command was attempted; this environment could not complete the network download.\nRun: wget -O sample.txt https://example.com/sample.txt\n
